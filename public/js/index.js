@@ -1,5 +1,5 @@
 //just adding a comment
-import { elemRed } from "../src/red.js";
-import { elemBlue } from "../src/blue.js";
+import { elemRed } from "../js/red.js";
+import { elemBlue } from "../js/blue.js";
 console.log("elemRed", elemRed);
 console.log("elemBlue", elemBlue);

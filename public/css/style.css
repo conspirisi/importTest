@@ -1,13 +1,15 @@
+.blue {
+  color: Fuchsia;
+}
+
 body {
   font-family: sans-serif;
   background-color: black;
   color: aqua;
 }
 
-.blue {
-  color: lightblue;
-}
-
 .red {
   color: lightpink;
 }
+
+/*# sourceMappingURL=style.css.map */
